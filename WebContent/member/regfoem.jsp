@@ -9,11 +9,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-<<<<<<< HEAD
-	망할 GIT.
-=======
 	여기가 가입 화면.
-	새로 시도한 망할GIT.
->>>>>>> temp
+	Git Hub 연습!
 </body>
 </html>

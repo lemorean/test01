@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-
+	망할 Git Hub연습!!
 </body>
 </html>

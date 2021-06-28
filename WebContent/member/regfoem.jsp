@@ -10,5 +10,6 @@
 </head>
 <body>
 	여기가 가입 화면.
+	새로 시도한 망할GIT.
 </body>
 </html>

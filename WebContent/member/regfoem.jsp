@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-	여기가 가입 화면.
+	망할 GIT.
 </body>
 </html>
